@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 393px;
+    height: 53px;
+    padding: 18px, 26px, 14px, 27px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+
+.time {
+    display: flex;
+    width: 54px;
+    height: 21px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+
+}
+.header__right {
+    display: flex;
+}
